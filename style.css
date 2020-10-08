@@ -26,3 +26,11 @@ background-size:cover;
     margin:15px;
 
 }
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid blueviolet;
+    border-radius:20px;
+}
